@@ -428,6 +428,11 @@ h6 {
       padding: 7rem 0 5rem 0;
    }
 
+   .header_wrap .social_link {
+      justify-content: center;
+      margin: 2rem;
+   }
+
    .header_wrap .header_content .col-md-6.col-12.my-auto {
       padding-bottom: 6rem;
    }
