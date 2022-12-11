@@ -375,6 +375,16 @@ h6 {
    margin: 0 auto;
 }
 
+.swiper-slide {
+   opacity: 0;
+   transition: all .2s ease;
+}
+
+.swiper-slide-active {
+   opacity: 1;
+   transition: all .2s ease;
+}
+
 .swiper-horizontal>.swiper-pagination-bullets,
 .swiper-pagination-bullets.swiper-pagination-horizontal,
 .swiper-pagination-custom,
